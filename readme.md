@@ -51,6 +51,8 @@ And watch the magic happen! ✨
 
 [Watch the Natural Language as Code Demo](./aws_nlp.mp4) - raw download
 [![Natural Language as Code Demo](./aws_nlp.gif)]
+
+or **[View GIF in Browser](./aws_nlp.gif)**
 ---
 
 ##  Overview
