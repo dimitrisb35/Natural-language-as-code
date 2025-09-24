@@ -57,7 +57,7 @@ And watch the magic happen! ✨
 ##  Overview
 
 **Natural Language as Code** revolutionizes infrastructure management by allowing developers and DevOps engineers to describe their infrastructure needs in plain English.
-All you need is VS Code, AWS CCAPI MCP server, and Claude to get started.
+All you need is VS Code, AWS CCAPI MCP server, and Claude Sonnet 4 to get started.
 ### Why Natural Language as Code?
 
 **🎯 Intuitive**
