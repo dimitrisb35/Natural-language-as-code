@@ -76,7 +76,7 @@ Perfect for teams transitioning to cloud-native
 
 ### 🔮 What's Next?
 
-### 🤖 Coming Soon: ChatBot Integration with aws ccapi mcp 
+### 🤖 Coming Soon: ChatBot Integration with aws ccapi mcp server
 
 **🌐 https://apps.infraid.gr/**
 
