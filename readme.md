@@ -76,7 +76,7 @@ Perfect for teams transitioning to cloud-native
 
 ### 🔮 What's Next?
 
-### 🤖 Coming Soon: I’ll teach my chatbot at **🌐 https://apps.infraid.gr/** to do it too… it’s already asking for coffee breaks!
+  🤖 Coming Soon: I'll teach my chatbot at 🌐 https://apps.infraid.gr/ to do it too… it's already asking for coffee breaks!
 
 ___
 **🚀 Ready to revolutionize your infrastructure management?**
