@@ -47,6 +47,10 @@ Just say:
 
 And watch the magic happen! ✨
 
+## Demo Video
+
+[Watch the Natural Language as Code Demo](./aws_nlp.mp4)
+
 ---
 
 ## 🌟 Overview
