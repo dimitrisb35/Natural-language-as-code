@@ -1,5 +1,5 @@
- <h1>🚀 Natural Language as Code</h1>
-
+ 🚀 Natural Language as Code
+_______________________________________________________________________
  👋 Bye Bye Terraform, Welcome Natural Language Infrastructure! 
 
 Tired of writing complex YAML configurations and remembering countless Terraform syntax rules? Say hello to the future of infrastructure management - **Natural Language as Code**! 
@@ -41,13 +41,13 @@ resource "kubernetes_deployment" "app" {
   }
 }
 ```
-
+_______________________________________________________________________
 Just say:
 > **"Deploy nginx application with 3 replicas in production namespace"**
 
 And watch the magic happen! ✨
 
----
+_______________________________________________________________________
 
 ## 🌟 Overview
 
@@ -56,18 +56,18 @@ And watch the magic happen! ✨
 ### Why Natural Language as Code?
 
 **🎯 Intuitive**
-___
+_______________________________________________________________________
 Write infrastructure code the way you think about it
 
 **⚡ Fast**
-___
+_______________________________________________________________________
 Deploy complex applications in seconds, not hours
 
 **📚 Learning-Friendly**
-___
+_______________________________________________________________________
 Perfect for teams transitioning to cloud-native
 
----
+_______________________________________________________________________
 
 ### 🔮 What's Next?
 
@@ -76,7 +76,5 @@ Perfect for teams transitioning to cloud-native
 **🌐 https://apps.infraid.gr/**
 
 **🚀 Ready to revolutionize your infrastructure management?**
-
-
 
 
