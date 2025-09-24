@@ -50,7 +50,7 @@ And watch the magic happen! ✨
 ## Demo Video
 
 [Watch the Natural Language as Code Demo](./aws_nlp_full.mp4) - download view raw
-[![Natural Language as Code Demo](./aws_nlp.gif)]
+[![Natural Language as Code Demo](./aws_nlp_full.gif)]
 
 ---
 
