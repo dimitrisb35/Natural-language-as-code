@@ -53,7 +53,7 @@ And watch the magic happen! ✨
 [![Natural Language as Code Demo](./aws_nlp.gif)]
 ---
 
-## 🌟 Overview
+##  Overview
 
 **Natural Language as Code** revolutionizes infrastructure management by allowing developers and DevOps engineers to describe their infrastructure needs in plain English.
 
