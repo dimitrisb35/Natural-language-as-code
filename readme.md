@@ -78,5 +78,7 @@ Perfect for teams transitioning to cloud-native
 
   🤖 Coming Soon: I'll teach my chatbot at 🌐 https://apps.infraid.gr/ to do it too… it's already asking for coffee breaks!
 
+<img width="1711" height="898" alt="image" src="https://github.com/user-attachments/assets/7f20a98b-e896-4113-a035-bde374a5d10e" />
+
 ___
 **🚀 Ready to revolutionize your infrastructure management?**
