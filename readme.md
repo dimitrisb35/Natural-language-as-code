@@ -1,4 +1,4 @@
-# 🚀 Natural Language as Code
+# 🚀 Infrastructure as Natural Language 
 
 ## 👋 Bye Bye Terraform, Welcome Natural Language Infrastructure! 
 
